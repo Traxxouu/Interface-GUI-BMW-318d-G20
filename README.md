@@ -37,6 +37,6 @@ pip install obd
 **Cloner le dépôt Git** :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/bmw-318d-obd-interface.git
-   cd bmw-318d-obd-interface
+   git clone https://github.com/Traxxouu/Interface-GUI-BMW-318d-G20.git
+   cd Interface-GUI-BMW-318d-G20
    ```
