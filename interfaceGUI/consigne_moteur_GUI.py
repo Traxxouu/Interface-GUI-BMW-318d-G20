@@ -4,7 +4,7 @@ import obd
 
 def envoyer_consigne_rpm(valeur_rpm):
     try:
-        connection = obd.OBD()
+        connection = obd.OBD() #protocol bug
         cmd = obd.commands.RPM
         response = connection.query(cmd)
         
