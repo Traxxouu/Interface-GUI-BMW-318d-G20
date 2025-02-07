@@ -1,6 +1,6 @@
 # BMW 318d OBD-II Interface - Gestion et Monitoring du Moteur
 
-![Liste de tâches](https://github.com/Traxxouu/)
+![Compatible](https://github.com/Traxxouu/Interface-GUI-BMW-318d-G20/IMG_0012.jpg)
 
 Cette application Python permet de surveiller et d'envoyer des consignes au moteur d'une BMW 318d via la prise OBD-II. Elle utilise la bibliothèque `obd` pour lire les données en temps réel et `tkinter` pour créer une interface graphique.
 
